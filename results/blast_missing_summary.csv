@@ -1,0 +1,3 @@
+group,n,frac,TMmin_mean,TMmin_median,PercentID_mean
+with_blast,20445,1.0,0.4723329883401334,0.4638110995292663,16.942724382489605
+without_blast,0,0.0,,,
